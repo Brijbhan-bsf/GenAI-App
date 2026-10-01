@@ -66,7 +66,7 @@ Test the following:
 - Line count is displayed.
 
 **Streamlit Cloud Live URL:**  
-`PASTE-YOUR-STREAMLIT-CLOUD-URL-HERE`
+(https://genai-app-3htapec67tsdhc2tbim7ts.streamlit.app/)
 
 ## Task 2: Deployment on Hugging Face Spaces
 
